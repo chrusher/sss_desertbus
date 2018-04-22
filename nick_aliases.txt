@@ -2,6 +2,8 @@
 3,bidbotecho,bidbot
 3,bidserv
 3,bojii,bojii_
+3,delegatorbot
+3,desertbot
 3,diderobot,diderobot_,diderobot_test
 3,ekimbot,ekimbot-unbound,ekimbot_dev,ekimbot|4,ekimtestbot
 3,grapheme
@@ -51,7 +53,7 @@
 1,anthony__,anthony
 1,antman,antman13579,antman9000,antman_
 1,antman-phone,antman-phone2
-1,anubis169,anubis169|aw,anubis169|away,anubis169|fixingnicks,anubis169|hkitainsbananas,anubis169|hkitainspopcorn,anubis169|stuckinm33ting,anubis169|tr4v3lthing,anubis169|w0rkthing,anubis170|w0rkthing
+1,anubis169,anubis169|aw,anubis169|away,anubis169|fixingnicks,anubis169|hkitainsbananas,anubis169|hkitainspopcorn,anubis169|stuckinm33ting,anubis169|tr4v3lthing,anubis169|w0rkthing,anubis170|w0rkthing,dreadpirateroberts
 1,aranea,aranea_
 1,area,area_
 1,armadillo_al,armadillo_al_
@@ -119,7 +121,7 @@
 1,buttersunset,butter_sunset
 1,buttons,buttons37
 1,byte-smasher_,byte-smasher
-1,caff_lemur_preppin_stream,caff_lemur-preppin_stream,caffeinatedlemur,caffeinatedlemur_,caffeinatedlemur|2,caffeinatedlemur-phone,caffeinatedlemur_phone,caffeinatedlemur-streaming,caffeinatedlemur-work,caffeinatedstreamer,caffeintatedlemur-streaming,caffinatedlemur,cafflemur_away,barelyalivelemur,brokenlemur,caffeinated-stream-prep,caffeinatedf1lemur,caffeinatedfossa,caffeinatedlemur-awayprepping,coffeenated_lemur,deadedlemur,deadedlemurisdead,headache-lemur,headachelemur,workinglemur-break,workinglemur-lunch,workinglemur-postwork
+1,caffeinatedlemur,caff_lemur_preppin_stream,caff_lemur-preppin_stream,caffeinatedlemur_,caffeinatedlemur|2,caffeinatedlemur-phone,caffeinatedlemur_phone,caffeinatedlemur-streaming,caffeinatedlemur-work,caffeinatedstreamer,caffeintatedlemur-streaming,caffinatedlemur,cafflemur_away,barelyalivelemur,brokenlemur,caffeinated-stream-prep,caffeinatedf1lemur,caffeinatedfossa,caffeinatedlemur-awayprepping,coffeenated_lemur,deadedlemur,deadedlemurisdead,headache-lemur,headachelemur,workinglemur-break,workinglemur-lunch,workinglemur-postwork
 1,caitiri,caitiri_2,caity,caity_,cozycait,batcait,batgirlcait,classycait,stressedcait,darkwingcaitmglamcait,kittehcait,kittycait,redpandacait,santacait,schoogirlcait,schoolgirlcait,secretarycait,shinycait,sickcait,caityshine,doctorcaitiri,ghostiri
 1,callmecal,callmecal_
 1,cammcv,cammcv_
@@ -148,7 +150,7 @@
 1,chemistring,chemistring|afk,chemistring|phone
 1,cherubimcw,cherubimcw_
 1,chipptunes,chipptunes_
-1,chrusher,chrusher_,doctor_chrusher
+1,chrusher,chrusher_,doctor_chrusher,chrusher_work,chrusher_old_mac
 1,chton,chton2
 1,chuzzle,chuzzle_,chuzzle_2,chuzzle|2,chuzzl,chuzzle_school,chuz|away,chuz|awaymurr,chuz|awy,chuz|phone,chuz|train,chuz|school,chuz_school
 1,chrono2x,chrono2x_alt,chrono2x_lap,
@@ -160,7 +162,7 @@
 1,clobbs_,clobbs,clobbs__
 1,closecalls,closecalls_
 1,cmot-dibbler,cmot-dibbler_
-1,cntarantula,cntbasket,cntbuddha,cntbutt,cntcat,cntdalek,cntdysrational,cntelench,cntfngap,cntgandhi,cntgay,cntgrational,cntgwhhatkeundzht,cnthipster,cntirrational,cntmoo,cntmuad`dib,cntnamstyle,cntpirate,cntquebec,cntr,cntracli,cntraiden,cntraishynyhll,cntrashnl,cntrational,cntrationananal,cntrtnl,cntrussia,cntsenpai,cntshaitan,cntstorm,cntviking,cntzerland,cntzombie,spookycnt
+1,cntrational,cntarantula,cntbasket,cntbuddha,cntbutt,cntcat,cntdalek,cntdysrational,cntelench,cntfngap,cntgandhi,cntgay,cntgrational,cntgwhhatkeundzht,cnthipster,cntirrational,cntmoo,cntmuad`dib,cntnamstyle,cntpirate,cntquebec,cntr,cntracli,cntraiden,cntraishynyhll,cntrashnl,cntrationananal,cntrtnl,cntrussia,cntsenpai,cntshaitan,cntstorm,cntviking,cntzerland,cntzombie,spookycnt
 1,coalescia,coalescia_
 1,cobblepike,cobblepike_
 1,compleat,compleat_,compleat__
@@ -207,7 +209,7 @@
 1,dgatsby,dgatsby_
 1,dialmformara,dial_m_for_mara
 1,dicey,dicey1,dicey2,dicey-twerk,dicey|monaco,dicey|phone,dicey|tablet,dicey-work
-1,didero,didero_,didebro,dideraging,dideralso,dideremote,dideroaming,derosghost,diderosghostsghost,didero|afk,didero|dinner,didero|gaming,didero|lunch,didewrong,diiiiiideeeeeeroooooo
+1,didero,didero_,didebro,dideraging,dideralso,dideremote,dideroaming,derosghost,diderosghostsghost,didero|afk,didero|dinner,didero|gaming,didero|lunch,didewrong,diiiiiideeeeeeroooooo,didero|work
 1,digi,digi7
 1,dinokittehfrog,dinokittehfrog1,dinokittehfrog_,crisis_dkf,zombie_dinokittehfrog,zombiedinokittehfrog,cinnamon_dkf,dinocrittehfrog,dinodotkittehfrog,dinokittehfrog_corpse,dinokittehfrogc,dinokittehfrogpiggy,dinopuppehfrog,frozen_dkf,fuffy_frog,ghost_dkf,ghostyghost_frog,gooey_dkf,hotchoco_dfk,invisi_dkittehf,invisible_dfk,invisible_dinokittehfrog,invisible_dkf,invisidfk,kittehdinofrog,nano_dfk,squished_dinokittehfrog
 1,diresloth,dire_sloth,diresloth_
@@ -218,7 +220,7 @@
 1,divinemissbee,divinemissbee_
 1,djgamer,djgamer_
 1,doc_cadence,doc_cadence_
-1,doctorgyarados,doctor_gyarados,doctorgyarados|away,doctorgyaradosaway,doctorgyaradroid,doctor_gyaradroid,docket,docket_2,doc-torgyarados,docg,docgbutts,docg|gyara,docketgyarados,docketsfingers,doctaeryrados,doctergyarados,doctor_z,doctoraerydos,doctordaverados,doctordeadrados,doctordipados,doctordonna,doctorfullados,doctorfullerdos,doctorg,doctorgame,doctorgarytoes,doctorgyar,doctorgyarabro,doctorgyarabutt,doctorgyaradave,doctorgyaradead,doctorgyaradis,doctorgyaradoesnt,doctorgyaradoge,doctorgyarados|gaem,doctorgyaraghost,doctorgyaramac,doctorgyaratwerk,doctorgyarawool,doctorgyardos,doctorgyrados,doctorgyroid,doctorhairados,doctorheufneutjdos,doctorspoopados,doktorgyarados,doktorjyarados,gyra,gyradroid,gyaradroid,guarantors,senatorthreebabies,senpai
+1,doctorgyarados,doctor_gyarados,doctorgyarados|away,doctorgyaradosaway,doctorgyaradroid,doctor_gyaradroid,docket,docket_2,doc-torgyarados,docg,docgbutts,docg|gyara,docketgyarados,docketsfingers,doctaeryrados,doctergyarados,doctor_z,doctoraerydos,doctordaverados,doctordeadrados,doctordipados,doctordonna,doctorfullados,doctorfullerdos,doctorg,doctorgame,doctorgarytoes,doctorgyar,doctorgyarabro,doctorgyarabutt,doctorgyaradave,doctorgyaradead,doctorgyaradis,doctorgyaradoesnt,doctorgyaradoge,doctorgyarados|gaem,doctorgyaraghost,doctorgyaramac,doctorgyaratwerk,doctorgyarawool,doctorgyardos,doctorgyrados,doctorgyroid,doctorhairados,doctorheufneutjdos,doctorspoopados,doktorgyarados,doktorjyarados,gyra,gyradroid,gyaradroid,guarantors,senatorthreebabies,senpai,doctorscarydos,gyaradread
 1,doctormia_,doctormia
 1,donated-from-germany,donated-from-germany_
 1,dondon_,dondon
@@ -314,10 +316,11 @@
 1,gruenhals,gruenhals_
 1,guidance,guidance_
 1,gulleko,gulleko_
-1,h--moon,h--moon_,h--moon|2,h-_-moon,h-__-moon,h-moon,h-moon|2,h--causefuckmoon,h--fightthepower,h--moon[sucks],h--notmoonbecauseheisajerk,h--tiredofloggingin-moon,h-ardlystable-moon,h-dumb,h-fucking-moon,h-goaway-moon,h-hatedbynickserv-moon,h-hulk,h-ihatenicserv-moon,h-isforhorific-moon,h-mobilcoker,h-mobilmoon,h-moon[fightthepower],h-moon[isfordumbs],h-moon_,h-mooning-moon,h-moonymoon,h-motherbussing-moon,h-nobadylikesyoumoon-moon,h-not-moon,h-notasgoodasbilly-moon,h-notreally-moon,h-piceofshit-moon,h-pileof-moon,h-shittymoon,h-silly-moon,h-someoneshoulddispatchof-moon,h-theshittestoflords-moon,h-uncooth-moon,h-waste-moon,h-whyareyouhearyoufuck-moon,h-whyareyouhereyoufuck-moon,h-worsethenbillypilgrim-moon,h-bussing-moon,h-bussingmoon,mobilemoon,noom--h--moon,noom-gnikcuf-h,not_h-moon,not-h-moon,princessyaoiface,cloudymoon
+1,cloudymoon,h--moon,h--moon_,h--moon|2,h-_-moon,h-__-moon,h-moon,h-moon|2,h--causefuckmoon,h--fightthepower,h--moon[sucks],h--notmoonbecauseheisajerk,h--tiredofloggingin-moon,h-ardlystable-moon,h-dumb,h-fucking-moon,h-goaway-moon,h-hatedbynickserv-moon,h-hulk,h-ihatenicserv-moon,h-isforhorific-moon,h-mobilcoker,h-mobilmoon,h-moon[fightthepower],h-moon[isfordumbs],h-moon_,h-mooning-moon,h-moonymoon,h-motherbussing-moon,h-nobadylikesyoumoon-moon,h-not-moon,h-notasgoodasbilly-moon,h-notreally-moon,h-piceofshit-moon,h-pileof-moon,h-shittymoon,h-silly-moon,h-someoneshoulddispatchof-moon,h-theshittestoflords-moon,h-uncooth-moon,h-waste-moon,h-whyareyouhearyoufuck-moon,h-whyareyouhereyoufuck-moon,h-worsethenbillypilgrim-moon,h-bussing-moon,h-bussingmoon,mobilemoon,noom--h--moon,noom-gnikcuf-h,not_h-moon,not-h-moon,princessyaoiface,cloudyghool
 1,hagios,hagios_
 1,hal6400,hal6400_,hal_6400
 1,halfaringcircus,halfaringcircus_
+1,halken,halken_,spookyhalken
 1,halkun_birfday,halkun_birfday_
 1,handsofglue_,handsofglue,handsofglue__
 1,hankhill,hankhill2147
@@ -333,13 +336,13 @@
 1,helga,helga_
 1,helle,ikarus,ikarus_
 1,helliona,helliona_
-1,henine,henine1,henine2,henine_,heninefon,heninefon_,heninefon__,heninetoo,heninetoo_,heninetoo__,other_henine,caffeinatedhenine,henine-windoze
+1,henine,henine1,henine2,henine_,heninefon,heninefon_,heninefon__,heninetoo,heninetoo_,heninetoo__,other_henine,caffeinatedhenine,henine-windoze,henine_from_hell
 1,heufneutje,heuf,heufgyaratje,heufneutje`,heufneutjte,heufon,heuftkloud,heufy,heufy-senpai,heufybed,heufybells,heufybike,heufyboat,heufyborg,heufybro,heufybus,heufybutt,heufycait,heufycatbus,heufycatfeesh,heufycatfish,heufycioud,heufycloud,heufycluod,heufydead,heufyded,heufydragon,heufydroid,heufyfeesh,heufyfon,heufyfrog,heufygrump,heufyinternetpls,heufylappy,heufylightrainbutt,heufymara,heufymint,heufyonturkey,heufyovercast,heufypi,heufyplane,heufyrainbutt,heufysfon,heufytablet,heufytest,heufythunderbutt,heufytrain,heufyvhenry,heufyvloud,heufy|afk,heufy|away,heufy|beingfedandcleaned,heufy|brork,heufy|dead,heufy|fugiman,heufy|gaem,heufy|gaems,heufy|ingame,heufy|ipad,heufy|ipod,heufy|lappy,heufy|omnomnom,heufy|pokemonx,heufy|recording,heufy|sc1ool,heufy|school,heufy|sleep,heufy|studying,heufy|thing,heufy|twerk,heufy|wetandnaked,heufy|wo1k,heufy|work,heufy|workdragon,heufy|wurk,aheufydroid,aheufytrain,critsaurheufy,critsaurkittehheufeh,crittehkittehheufeh,crittehkittehheufy,captainheufy,dinocrittehheufy,dinoheufy,dinokittehheufeh,dinokittehheufy,fleufneutje,fleufybutt,fleufy|twerk,fleufy|work,garfield,garfieldthecat,garfield|ipod,garfield|lappy,garfield|work,geufybutt,geufytrain,hrufybus,huebutt,huefybutt,huefytrain,huefy|work,hueneutje,huetrain,kittehheufeh,kittehheufy,kittehsaurheufy|lappy,maidheufy,mehbedinokittehheufeh|lappeh,mehbedinokittehheufy,notfloofyatallheufy|work,nothingheufy,spoopneutje
 1,hextech_t-rex,hextech_t-rex_
 1,hg_pelts,hgpelts
-1,hiramas,hiramas_,hiramas__,hiramas|2,hiramas|mobile,hiramas|mobile1,hira,hira_gas,hira_tab,hiraghast,hiraghost,hiramas_win,hiramasofthedead,hiramas|abitlesssicknow,hiramas|catonkeyboard,hiramas|sick,hiramas|tablet,hirams,hiraphone
+1,hiramas,hiramas_,hiramas__,hiramas|2,hiramas|mobile,hiramas|mobile1,hira,hira_gas,hira_tab,hiraghast,hiraghost,hiramas_win,hiramasofthedead,hiramas|abitlesssicknow,hiramas|catonkeyboard,hiramas|sick,hiramas|tablet,hirams,hiraphone,hiraghast
 1,his_ryanness,his_ryanness_
-1,hkitain,hkitain1,hkitain_home,hkitain|home,hkitain_butt,hkitain_work,hkitain|mobile,hkitain|more_coffee,hkitain|ogencyan,hkitain|popcorn,hkitain|roid,hkitain|work,okitain,okitain_,okitain|butte,hkitten
+1,hkitain,hkitain1,hkitain_home,hkitain|home,hkitain_butt,hkitain_work,hkitain|mobile,hkitain|more_coffee,hkitain|ogencyan,hkitain|popcorn,hkitain|roid,hkitain|work,okitain,okitain_,okitain|butte,hkitten,hk
 1,hollyberries1990,hollyberries1990_
 1,holy_hotdog,holy_hotdog_
 1,homoglyph,homoglyphz,dinocrittehglyph,dinoglyph,dinokittehglyph,ghlyffe,glyffe,glyph,hoemglyph,homogiyph,hulkoglyph,kittehglyph,nothinglyph,sologlyph,workglyph,workinglyph
@@ -347,7 +350,7 @@
 1,hotduck,hotduck|afk
 1,hourglass,hourglass_,hourglass-university,hourglazz
 1,hpbraincase,hpbraincase2,hpbraincase_,hpbroadcast-prep,hpbroadcastprep,hpworkcase,hpworkcase2,hpawaycase,hpbedrest,hpbiefcase,hpbirthdaycase,hpbrainphone,hpbriefcase,hpbriefcase2,hpbroadcast,hpnicktest,hpphonecase,hpphonecase2,hpstreamcase,hptwitchcon,hp|ekimsplace
-1,hubbework,hubbeclass,hubbeclass_,hubbeclass__,hubbeclass___,hubbedublin,hubbedublin_,hubbesauna,hubbetrain,hubbetrain_,hubbework_,hubbe|sauna,hubbe,hubbeafk,hubbeattemptsdrawing,hubbeaway,hubbebro,hubbebsc,hubbecait,hubbederp,hubbederps,hubbedinotrain,hubbedip,hubbedoessweden,hubbedraws,hubbefox,hubbehotel,hubbeireland,hubbeking,hubbekingr,hubbekitteh,hubbekitty,hubbelapderp,hubbelaptop,hubbelinux,hubbemehbehkitteh,hubbemountain,hubbenewapartment,hubbeninja,hubbenom,hubbenoms,hubbenote,hubbepants,hubbepax,hubbephone,hubbepirateking,hubbeplays,hubbeprime,hubbescience,hubbesuna,hubbesweden,hubbetablet,hubbetardis,hubbethemagicalspacesteamtrain,hubbetour,hubbetraintwerk,hubbetwerk,hubbeworks,hubbleking,hubbletelescope,hubboat,hubbutt,hueking,hzubbeking,nhubbeking,queenhubbeking,sirhubbeking
+1,hubbeking,hubbework,hubbeclass,hubbeclass_,hubbeclass__,hubbeclass___,hubbedublin,hubbedublin_,hubbesauna,hubbetrain,hubbetrain_,hubbework_,hubbe|sauna,hubbe,hubbeafk,hubbeattemptsdrawing,hubbeaway,hubbebro,hubbebsc,hubbecait,hubbederp,hubbederps,hubbedinotrain,hubbedip,hubbedoessweden,hubbedraws,hubbefox,hubbehotel,hubbeireland,hubbekingr,hubbekitteh,hubbekitty,hubbelapderp,hubbelaptop,hubbelinux,hubbemehbehkitteh,hubbemountain,hubbenewapartment,hubbeninja,hubbenom,hubbenoms,hubbenote,hubbepants,hubbepax,hubbephone,hubbepirateking,hubbeplays,hubbeprime,hubbescience,hubbesuna,hubbesweden,hubbetablet,hubbetardis,hubbethemagicalspacesteamtrain,hubbetour,hubbetraintwerk,hubbetwerk,hubbeworks,hubbleking,hubbletelescope,hubboat,hubbutt,hueking,hzubbeking,nhubbeking,queenhubbeking,sirhubbeking
 1,hurrrr,hurrrr_
 1,hyde94,hyde
 1,hydrotopz,hydrotopz_
@@ -466,6 +469,7 @@
 1,lordsparks,lord_sparks,lordsparks|,lordsparks|tablet,lordsparks|zzz,lordsparks|zzzz
 1,lordwolfwood,lord_wolfwood
 1,lordzalzabar,lordzalzabar_
+1,lordzarano,lord-zarano
 1,lorennar,lorennar_
 1,lostthepirate,lostthepirate_
 1,louis,louis2,louis_
@@ -474,7 +478,7 @@
 1,luckystrikeforce,luckystrikeforce_
 1,lumar_,lumar
 1,luna,luna_
-1,lunik1,lunik0,lunik1_,lunik1|lappy,lunik1|lappy486,lunik1|phone,lunik1|phone_,lunik1|android,lunik1|away,lunik1|emacs,lunik1|lappier,lunik1|laptop,lunik1|lunchy,lunik1|mobile,lunik1|munch,lunikmacs
+1,lunik1,lunik0,lunik1_,lunik1|lappy,lunik1|lappy486,lunik1|phone,lunik1|phone_,lunik1|android,lunik1|away,lunik1|emacs,lunik1|lappier,lunik1|laptop,lunik1|lunchy,lunik1|mobile,lunik1|munch,lunikmacs,gruenik1
 1,lynt007n,lyn_t007n
 1,lysander,lysander_
 1,m33p,m33p_
@@ -487,7 +491,7 @@
 1,malfunct,malfunct_,malfunct`
 1,mara,__mara,ma\ra,mara2,mara5,mara_
 1,markus,markus_
-1,mastercheese,mastercheese_
+1,mastercheese,mastercheese_,ghastercheese
 1,mastergunner,master_gunner,train|gunner,mistressgunner,mistressgunner_,phone|gunner,phone_gunner,phonegunner,phone|gunner_,work|gunner,work_gunner
 1,masterm9099_,masterm9099__
 1,maverick_hunter,maverick_hunter_
@@ -671,12 +675,12 @@
 1,rye_,rye
 1,rye_and_wheat,rye_and_wheat1
 1,sakurazaki,sakurazaki1023
-1,sam,sam2
 1,samael_,samael
+1,samanthaghost,samantha,samphone,sam,erika,erika_,erika_the_red_panda,erika_the_red_phonda,erikaghost,erikatheredphonda,zeke229,rev_zeke_the_red_panda,zeke,zeke10,zeke220,zeke2299,zeke_the_red_panda,zeketheredpanda,dr_zeke_the_chinchilla,dr_zeke_the_red_panda,dr_zeke_the_red_pandragon,god_of_gods_zeke_the_red_panda,king_zeke_the_red_panda,zeke_ghost,zeke_god,zeke_nominal,zeke_the_blue_panda,zeke_the_glow_butt,zeke_the_maroon_panda,zeke_the_red_cardinal,zeke_the_red_krampus,zeke_the_red_luckie,zeke_the_red_panda_bird,zeke_the_red_pandbutt,zeke_the_red_phonda,zeke_the_redcau,zeke_the_rich_panda,zeke_the_sick_panda,zeke_the_sick_red_panda,zekebutts,zekephonr,zeke_ghost,zeke_the_ghost
 1,samkvi,samkvi|2
 1,sammy-boy,sammy-boy_
 1,samsoneffect_,samsoneffect
-1,sani,sanidroid,sanity,sanityis0verrated,sanityismobile,sanityisoverrated,sanityisroaming,sanityiswandering,sanitywork
+1,sanityisoverrated,sani,sanidroid,sanity,sanityis0verrated,sanityismobile,sanityisroaming,sanityiswandering,sanitywork
 1,sascha,sascha_
 1,sash_,sash
 1,satchamobob,satchamobob_
@@ -762,7 +766,7 @@
 1,sunspot,sunspot_
 1,super_bagel,super_bagel_
 1,supermonkeygx3,supermonkeygx3|2,supermonkeygx3|4
-1,sweedchef|twerk,sweedchef_twerk,sweedchef,sweedchef|away,sweedchef|home,sweedchef|lunch,sweedchef|work
+1,sweedchef,sweedchef|twerk,sweedchef_twerk,sweedchef|away,sweedchef|home,sweedchef|lunch,sweedchef|work
 1,symphony,swolephoniclolita,symph,symphatcon,symphatschool,symphatshow,symphatwork,symphintransit,symphobaking,symphoghost,symphonabus,symphone,symphoniclolita,symphonomnom,symphosewing,symphostrider,symphosunning,symphotiri,symphoutandabout,symphoutside,sympho|afk,sympho|game,symph|places,sympohny
 1,tachyondecay,tachyondecay_
 1,tahki,tahki_
@@ -810,6 +814,7 @@
 1,tom_,tom,tom666
 1,topspot123,topspot123_
 1,tractor__,tractor_
+1,trahsi,trahsimobile,aeltrius,trahsidroid
 1,transmit,transmit_
 1,tribble-tribal,tribble_tribal
 1,trishalynn,trisha_lynn
@@ -817,7 +822,7 @@
 1,trombone_hero,trombone_hero_
 1,trty0_,trty0,trty0__,trty0___,trty0____
 1,tstodden,tstodden_,tstodden__
-1,tsukiakariusagi,tsukiakariusagi_,emily,emily[ios],emily[nottwerking],emily[twerk]
+1,emily,tsukiakariusagi,tsukiakariusagi_,emily[ios],emily[nottwerking],emily[twerk]
 1,tuckiozi,tuckiozi_
 1,tufty42,tufty
 1,turetapir,turetapir_
@@ -894,7 +899,6 @@
 1,zaltharas,zaltharas_
 1,zanasobayncuh,zanasobayncuh_
 1,zanzabar,zanzabar_
-1,zeke229,rev_zeke_the_red_panda,zeke,zeke10,zeke1234123412341234123412341234,zeke220,zeke2299,zeke_the_red_panda,zeketheredpanda,dr_zeke_the_chinchilla,dr_zeke_the_red_panda,dr_zeke_the_red_pandragon,god_of_gods_zeke_the_red_panda,king_zeke_the_red_panda,zeke_ghost,zeke_ghost_mara_spanner_didero,zeke_god,zeke_nominal,zeke_the_blue_panda,zeke_the_glow_butt,zeke_the_knight_owl,zeke_the_little_gnome,zeke_the_maroon_panda,zeke_the_red_cardinal,zeke_the_red_krampus,zeke_the_red_luckie,zeke_the_red_panda_bird,zeke_the_red_pandbutt,zeke_the_red_phonda,zeke_the_redcau,zeke_the_rich_panda,zeke_the_sick_panda,zeke_the_sick_red_panda,zekebutts,zekephonr,zeke_ghost,zeke_the_ghost,erika_the_red_panda,erika_the_red_phonda,erika
 1,zephe,zephe_
 1,zeruss,zeruss_
 *,zzz
