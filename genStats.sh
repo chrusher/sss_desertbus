@@ -4,7 +4,7 @@ conf_dir=$(dirname "$(readlink -f "$0")")
 parent_dir="$(dirname "$conf_dir")"
 logs_dir="$parent_dir/working_logs"
 sss_dir="$parent_dir/superseriousstats"
-website_dir="$(dirname "$parent_dir")/stats.dbcommunity.org"
+website_dir="$(dirname "$parent_dir")/www"
 
 source_log="$1"
 
